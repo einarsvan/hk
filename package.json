@@ -33,6 +33,10 @@
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.0.0",
+    "ember-service-worker": "^0.6.8",
+    "ember-service-worker-asset-cache": "^0.6.1",
+    "ember-service-worker-cache-fallback": "^0.6.1",
+    "ember-service-worker-index": "^0.6.2",
     "ember-source": "~2.16.0-beta.1",
     "loader.js": "^4.2.3"
   },
