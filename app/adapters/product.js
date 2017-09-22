@@ -5,6 +5,6 @@ export default DS.JSONAPIAdapter.extend({
     namespace: 'v2',
     urlForFindAll(modelName, snapshot){
         let baseUrl = this.buildURL(modelName);
-        return `${baseUrl}/?page=0&limit=20`;
+        return `${baseUrl}/?page=0&limit=10`;
     }
 });
